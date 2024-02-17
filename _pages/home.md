@@ -7,18 +7,18 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Generating or optimizing molecules that satisfy desirable outcomes is an open challenge in many applications, such as drug design and material science. 
+In fact, this process requires a significant investment of time and money with a high risk of failure. 
+At ParacosmCraft, we develop advanced AI-based solutions that go deep into the understanding of how molecules are created, interact with a biochemical target, and how it behaves providing insights into what really happens and, more importantly, why it happens. 
+A Paracosm, is a detailed imaginary world. The creator of a Paracosm has a complex and deeply felt relationship with this subjective universe, which may incorporate elements from the real or imaginary world. 
+As our name suggests, we are crafting a Paracosm for the universe of molecules and atoms, unleashing the power of a blend between AI, quantum mechanics, chemistry, and biology.
 
 <div class="container">
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+... <br/>
+... (1949)
 </center>
 </div>
 </div>
@@ -26,8 +26,6 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
-
+I am a researcher specializing in the interdisciplinary field of Artificial Intelligence and Science, holding a master's degree in Data Science from Cairo University (2024).
+My M.Sc. research was centered on integrating Graph Neural Networks and Deep Reinforcement Learning for the generation and optimization of molecules with desired chemical and geometrical properties in 3D space.
+Fueled by a passion towards molecules, I didicated my life for diving deeper into this beautiful universe, leveraging the synergies of chemistry, biology, and quantum mechanics with AI and advanced computational tools to explore and exploit new frontiers in science.

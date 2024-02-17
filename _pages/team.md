@@ -7,9 +7,9 @@ permalink: /team/
 
 ## Team
 
- **We are  looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **I had the honor and privilege to work and learn from each one here, thank you very much!**
 
-## PI
+## Researcher and Programmer
 
 {% for member in site.data.pi %}
 
@@ -34,7 +34,7 @@ permalink: /team/
 {% endfor %}
 
 
-## Current Students and Postdocs
+## Mentors
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -77,7 +77,7 @@ permalink: /team/
 </div>
 
 
-## Alumni
+## Students
 
 <div class="jumbotron">
 {% assign number_printed = 0 %}

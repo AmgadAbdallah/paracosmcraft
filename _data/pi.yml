@@ -1,21 +1,21 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+- name: Amgad Abdallah Mahmoud
+  photo: amgad_casstle.jpeg
+  info: Amgad Abdallah . Teaching Assistant, The British University in Egypt
+  email: amgadphys@gmail.com
+  github: https://github.com/AmgadAbdallah
+  researchgate: https://www.researchgate.net/profile/Amgad-Abdallah-2
+  scholar: https://scholar.google.com/citations?user=CCFFO2AAAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  education1: "(2024) M.S. DataScience, Cairo University"
+  education2: "(2020) B.S. Business Information System, Helwan University"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (2024) M.S. DataScience, Cairo University
+  education2short: (2020) B.S. BIS, Helwan University
   # education3short: 
   # education4short: 
   # education5short: 
