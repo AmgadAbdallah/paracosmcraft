@@ -1,5 +1,14 @@
-- name: To be updated...
-  photo: 
-  info: 
-  email: 
-  website: 
+- name: Hesham H. Ali
+  photo: hesham.gif
+  info: Hesham H. Ali is a Professor of Computer Science and the director of the University of Nebraska Omaha (UNO) Bioinformatics Core Facility. He served as the Lee and Wilma Seemann Distinguished Dean of the College of Information Science and Technology at UNO between 2006 and 2021. He has published numerous articles in various IT areas including scheduling, distributed systems, data analytics, wireless networks, and Bioinformatics. He has also published two books in scheduling and graph algorithms, and several book chapters in Bioinformatics. He has been serving as the PI or Co-PI of several projects funded by NSF, NIH and Nebraska Research Initiative in the areas of data analytics, wireless networks and Bioinformatics. He has also been leading a Research Group that focuses on developing innovative computational approaches to model complex biomedical systems and analyze big bioinformatics data. The research group is currently developing several next generation big data analytics tools for analyzing large heterogeneous biological and health data associated with various biomedical research areas, particularly projects associated with infectious diseases, microbiome studies, early childhood development and aging research. He has also been leading two projects for developing secure and energy-aware wireless infrastructure to address tracking and monitoring problems in medical environments, particularly to study mobility profiling for advancing personalized healthcare. He has led several local and national outreach initiatives including Women in IT initiatives, IT education and training programs, and IT summer internship camps.
+  email: hali@unomaha.edu
+  researchgate: https://www.researchgate.net/profile/Hesham-Ali-10
+  website: https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/hesham-ali.php
+  
+- name: Andreas Pester
+  photo: pester.jpg
+  info: Andreas Pester is a Mathematician and a Data Scientist. He is a Professor at the Faculty of Informatics and Computer Science at the British University in Egypt. He has more than 30 years of experience in teaching math and mathematical modelling, simulation technologies, online labs, and machine learning. He was previously responsible for the development of Data Science and Deep Learning research and teaching at CUAS (Austria) and BUE (Egypt). In addition to his extensive scientific publications, Professor Pester was involved in more than 20 EU- and national projects in Austria and Egypt. He is also a reviewer for Ph.D. promotions at UPC Barcelona, UNED Madrid and the University of Reading, UK. He was a Guest Professor at the UPC Barcelona, Technical University of Kharkov and Kiev, University Maribor, UNESP Bauru (Brazil), University of Applied Sciences Vienna, Armenian-American University in Yerevan, PUC Rio de Janeiro, and University Banja Luka.
+  email: apester@icloud.com
+  website: https://www.idsai.org/pro/memberdetail.aspx?ID=254
+  researchgate: https://www.researchgate.net/profile/Andreas-Pester
+  scholar: https://scholar.google.com/citations?user=GpY8tSkAAAAJ&hl=en

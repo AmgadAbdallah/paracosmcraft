@@ -62,7 +62,7 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
+<!-- {% if site.data.grants %}
 <div class="jumbotron">
 ### To be updated...
 <ul>
@@ -71,11 +71,11 @@ permalink: /about/
 {% endfor %}
 </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 {% if site.data.awards %}
 <div class="jumbotron">
-### To be updated...
+### Awards
 <ul>
 {% for award in site.data.awards %}
  <li> {{ award.name | replace: "-","&#8211;"}} </li>
@@ -86,7 +86,8 @@ permalink: /about/
 
 {% if site.data.people %}
 <div class="jumbotron">
-### To be updated...
+### Conributing students
+<p>To be updated...</p>
 <ul>
 {% for student in site.data.people %}
  <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
@@ -96,7 +97,8 @@ permalink: /about/
 {% endif %}
 
 <div class="jumbotron">
-  <h4>To be updated...</h4>
+  <h4>Sponsers</h4>
+  <p>To be updated...</p>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
