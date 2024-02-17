@@ -18,5 +18,3 @@ permalink: /teaching/
 * Probability and Statistics
 * Databases
 
-
-

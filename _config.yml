@@ -1,7 +1,7 @@
 # Site settings
 title: ParacosmCraft
-email: amgadphys@gmail.com
-description: AI for science Research Group
+email: amgadphys@gmail
+description: Academic
 baseurl: ""
 url: ""
 
@@ -13,23 +13,23 @@ url: ""
 # Footer info
 affiliation: >
     Amgad Abdallah Mahmoud<br/>
-    Masters in Data Science<br/>
+    Masters in DataScience<br/>
     The British University in Egypt
 
 location: >
   The British University in Egypt<br/>
-  Cairo<br/>
+  Giza<br/>
   Egypt
 
 contact: >
-    <a href="mailto:amgadphys@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Amgad via email</a> <br/>
-    <a href="https://github.com/AmgadAbdallah"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="amgadphys@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Amgad via email</a> <br/>
+    <a href="https://github.com/AmgadAbdallah"><i class="fa fa-github fa-1x"></i> GitHub!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
-  - name: gallary
+  - name: Gallary
   - name: research
   - name: software
   - name: team
@@ -57,6 +57,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
 
 plugins: ['jekyll/scholar']
 

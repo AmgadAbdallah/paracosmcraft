@@ -17,8 +17,8 @@ years: [2023, 2024]
 </style>
 
 <div class="jumbotron">
-### Preprints
-{% bibliography --query @unpublished %}
+### Conference papers
+{% bibliography --query @confarticle %}
 </div>
 
 <div class="jumbotron">
