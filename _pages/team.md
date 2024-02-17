@@ -5,11 +5,12 @@ sitemap: false
 permalink: /team/
 ---
 
-## Team
+# Team
 
- **I had the honor and privilege to work and learn from each one here, thank you very much!**
+<hr color="white">
+ <!-- **I had the honor and privilege to work and learn from each one here, thank you very much!** -->
 
-## Researcher and Programmer
+#### Researcher and Programmer
 
 {% for member in site.data.pi %}
 
@@ -34,7 +35,7 @@ permalink: /team/
 {% endfor %}
 
 
-## Mentors
+#### Mentors
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -78,6 +79,6 @@ permalink: /team/
 
 
 
-## Administrative Support
+#### Administrative Support
 
 

@@ -14,7 +14,7 @@ As our name suggests, we are crafting a Paracosm for the universe of molecules a
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/molecules.PNG" width="100%"/><br/>
 To be updated...<br/>
 ...<i>...</i> ...
 </center>
