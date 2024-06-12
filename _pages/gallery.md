@@ -2,7 +2,7 @@
 title: "Galleries"
 layout: gridlay
 sitemap: false
-permalink: /gallary/
+permalink: /gallery/
 ---
 
 <style>
